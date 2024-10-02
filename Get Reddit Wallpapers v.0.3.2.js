@@ -6,6 +6,7 @@ const redditUrls = [
     "https://www.reddit.com/r/WallpaperRequests/new.json?limit=5",
     "https://www.reddit.com/r/wallpaperspro/new.json?limit=5",
     "https://www.reddit.com/r/AestheticWallpapers/new.json?limit=5",
+    //Add Wallpaper reddit URLs here
 ];
 
 async function fetchRedditPosts(url) {
