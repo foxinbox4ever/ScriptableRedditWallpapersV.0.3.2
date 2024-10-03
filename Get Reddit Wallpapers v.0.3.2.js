@@ -158,5 +158,5 @@ async function main() {
 }
 
 // Call the main function to fetch and save the image
-main();
+return await main();
 Script.complete();
