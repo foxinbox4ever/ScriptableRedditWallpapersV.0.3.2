@@ -1,6 +1,8 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
 // icon-color: red; icon-glyph: grin-beam;
+//Get Reddit Wallpapers v0.3.2
+//by foxinbox
 const redditUrls = [
     "https://www.reddit.com/r/wallpapers/new.json?limit=5",
     "https://www.reddit.com/r/WallpaperRequests/new.json?limit=5",
