@@ -18,4 +18,9 @@ How to use on iPhone
 - Click the arrow and turn off Show Preview
 
 How to add/change the subreddits the wallpapers are from.
-- At the very top of the JS script you will see the array RedditUrls just add it to the array (using the same format as the other URLS to get the correct output from the API)
+- Copy the link of the subreddit you wish to add
+- At the very top of the JS script you will see the array RedditUrls
+- Add the reddit URL between "" and add a comma at the end (if you want to add more)
+- Then add /new.json?limit=5 to the end of the reddit URL
+- Please keep in mind reddit API T&C https://redditinc.com/policies/data-api-terms
+- Make sure the array looks like this e.g const redditUrls = ["https://www.reddit.com/r/subRedditName/new.json?limit=5",]
