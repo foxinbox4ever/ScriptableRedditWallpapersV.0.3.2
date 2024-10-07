@@ -17,7 +17,7 @@ How to use on iPhone
 - Search Set Wallpaper and select the wallpaper you want to change
 - Click the arrow and turn off Show Preview
 
-How to add/change the subreddits the wallpapers are from.
+How to add/change the subreddits the wallpapers are from
 - Copy the link of the subreddit you wish to add
 - At the very top of the JS script you will see the array RedditUrls
 - Add the reddit URL between "" and add a comma at the end (if you want to add more)
